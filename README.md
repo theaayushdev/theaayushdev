@@ -1,4 +1,4 @@
-<img src= "C:\Users\ACER\Downloads\Aesthetic sky - Imgur.jpg" align="center" width="100%">
+
 
 <h1 align="center">💻 Tech Stack</h1>
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="center">🎧  Music</h2>
+
 
 ###
 
