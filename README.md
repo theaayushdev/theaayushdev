@@ -1,4 +1,4 @@
-<img src= "[https://i.imgur.com/bc6JEpm.jpg](https://imgur.com/gallery/gqE3Mpv)" align="center" width="100%">
+<img src= "[https://i.imgur.com/bc6JEpm.jpg]" align="center" width="100%">
 
 <h1 align="center">💻 Tech Stack</h1>
 
