@@ -1,5 +1,3 @@
-
-
 <h1 align="center">💻 Tech Stack</h1>
 
 ###
@@ -25,6 +23,16 @@
 
 ###
 
+<h1 align="center">🐍 GitHub Contribution Snake</h1>
+
+###
+
+<div align="center">
+  <img src="https://github.com/theaayushdev/theaayushdev/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div><br>
+
+###
+
 <h1 align="center">🌐 Socials</h1>
 
 ###
@@ -39,7 +47,3 @@
 </div><br>
 
 ###
-
-![snake gif](https://github.com/theaayushdev/theaayushdev/blob/output/github-snake-dark.svg)
-
-
