@@ -38,11 +38,8 @@
   </a>
 </div><br>
 
+###
+
 ![snake gif](https://github.com/theaayushdev/theaayushdev/blob/output/github-snake-dark.svg)
 
-###
-
-
-
-###
 
