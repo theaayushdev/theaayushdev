@@ -28,14 +28,6 @@
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter logo" />
   <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML logo" />
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS logo" />
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
-  <img width="15"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring logo" />
-  <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL logo" />
   <img width="15"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" />
@@ -55,16 +47,6 @@
   <img src="https://streak-stats.demolab.com?user=theaayushdev&theme=radical&hide_border=false&border_radius=5" height="150" alt="GitHub Streaks" />
 </div>
 
-###
-
-<!-- Snake Animation (if you prefer to add it later) -->
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
-
-<div align="center">
-  <img src="https://github.com/theaayushdev/theaayushdev/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
-</div>
-
-###
 
 <!-- Socials Section -->
 <h2 align="center">🌐 Connect with Me</h2>
@@ -75,9 +57,6 @@
   </a>
   <a href="https://www.instagram.com/theaayushdev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram" />
-  </a>
-  <a href="https://github.com/theaayushdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="40" height="40" alt="GitHub" />
   </a>
 </div>
 
