@@ -7,6 +7,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div><br>
 
 ###
@@ -23,16 +26,6 @@
 
 ###
 
-<h1 align="center">🐍 GitHub Contribution Snake</h1>
-
-###
-
-<div align="center">
-  <img src="https://github.com/theaayushdev/theaayushdev/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
-</div><br>
-
-###
-
 <h1 align="center">🌐 Socials</h1>
 
 ###
@@ -45,5 +38,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div><br>
-
-###
