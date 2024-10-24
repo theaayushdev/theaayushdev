@@ -38,14 +38,10 @@
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theaayushdev&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theaayushdev&layout=compact&langs_count=8&theme=radical" height="180" alt="Top Languages" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=theaayushdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=theaayushdev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theaayushdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=theaayushdev&theme=radical&hide_border=false&border_radius=5" height="150" alt="GitHub Streaks" />
-</div>
 
 
 <!-- Socials Section -->
