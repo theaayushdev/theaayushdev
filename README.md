@@ -41,9 +41,3 @@
   </a>
 </div>
 
-###
-
-<!-- Footer (optional, for a nice ending touch) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theaayushdev&style=flat-square&color=brightgreen" alt="Profile Views" />
-</p>
