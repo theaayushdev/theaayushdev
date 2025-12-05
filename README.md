@@ -1,2 +1,13 @@
-<img src="https://github-readme-stats.vercel.app/api?username=theaayushdev&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark&cache_seconds=1800"/>
-
+<img 
+  src="https://github-readme-stats.vercel.app/api?
+       username=theaayushdev
+       &show_icons=true
+       &theme=transparent
+       &hide_border=true
+       &hide_title=true
+       &include_all_commits=true
+       &count_private=true
+       &rank_icon=github
+       &hide=issues,contribs,stars"
+  width="450"
+/>
