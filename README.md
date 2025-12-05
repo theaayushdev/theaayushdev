@@ -1,13 +1,1 @@
-<img 
-  src="https://github-readme-stats.vercel.app/api?
-       username=theaayushdev
-       &show_icons=true
-       &theme=transparent
-       &hide_border=true
-       &hide_title=true
-       &include_all_commits=true
-       &count_private=true
-       &rank_icon=github
-       &hide=issues,contribs,stars"
-  width="450"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=theaayushdev&theme=transparent&hide_title=true&hide_border=true&show_icons=false&include_all_commits=true&count_private=true" />
