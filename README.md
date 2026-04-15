@@ -1,3 +1,1 @@
-[<img src="https://github-readme-stats.vercel.app/api?username=theaayushdev&theme=transparent&hide_title=true&hide_border=true&show_icons=false&include_all_commits=true&count_private=true" />
-.
-](https://github-readme-stats.vercel.app/api?username=theaayushdev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theaayushdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
